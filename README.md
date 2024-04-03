@@ -13,7 +13,5 @@
     <li><strong>Smooth Animations:</strong>  Experience a variety of animations triggered by scrolling, including staggers, timelines, and more.</li>
     <li><strong>Custom Video Slider:</strong> Navigate through videos with a sleek slider featuring progress tracking.</li>
     </ul>
-
-  <p><strong>Contact:</strong>rahilsolanki1014@gmail.com</p>
 </body>
 </html>
