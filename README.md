@@ -14,6 +14,6 @@
     <li><strong>Custom Video Slider:</strong> Navigate through videos with a sleek slider featuring progress tracking.</li>
     </ul>
 
-  <p><strong>Contact:</strong> [Provide your contact information here]</p>
+  <p><strong>Contact:</strong>rahilsolanki1014@gmail.com</p>
 </body>
 </html>
